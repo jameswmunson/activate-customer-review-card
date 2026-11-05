@@ -1,0 +1,24 @@
+{
+  "uid": "project36_template_app",
+  "type": "app",
+  "config": {
+    "name": "Project36 Card Template",
+    "description": "Reusable branded deal card starter by Project36.",
+    "distribution": "private",
+    "auth": {
+      "type": "static",
+      "requiredScopes": [
+        "oauth",
+        "crm.objects.deals.read",
+        "crm.objects.companies.read"
+      ],
+      "optionalScopes": [],
+      "conditionallyRequiredScopes": []
+    },
+    "permittedUrls": {
+      "fetch": [],
+      "iframe": [],
+      "img": []
+    }
+  }
+}

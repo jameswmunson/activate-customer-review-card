@@ -1,0 +1,13 @@
+{
+  "uid": "project36_template_deal_card",
+  "type": "card",
+  "config": {
+    "name": "Project36 | Deal Overview",
+    "description": "Reusable branded deal overview.",
+    "entrypoint": "/app/cards/project36-card.tsx",
+    "location": "crm.record.tab",
+    "objectTypes": [
+      "DEAL"
+    ]
+  }
+}
